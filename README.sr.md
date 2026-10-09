@@ -39,7 +39,7 @@ Tura je film podeljen na poglavlja: ulaz, dnevni kutak, stepenište, sobe, kuhin
 | Telefon | 100 | 100 | 96 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, laboratorijsko merenje živog sajta, septembar 2026. Sigurnosna zaglavlja: 6 od 6. HTML validator: bez grešaka. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `FAQPage`, `LodgingBusiness`, `VideoObject`.
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. HTML validator: bez grešaka. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `FAQPage`, `LodgingBusiness`, `VideoObject`.
 
 ## Snimci ekrana
 

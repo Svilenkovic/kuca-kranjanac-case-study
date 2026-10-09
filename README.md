@@ -4,7 +4,7 @@
 
 One-page site in Serbian and English for a guest house below Mount Rtanj, with a scroll-driven film that walks visitors through the house.
 
-**[kranjanac.svilenkovic.rs](https://kranjanac.svilenkovic.rs/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/kuca-kranjanac) · [Srpski](README.sr.md)
+**[kranjanac.svilenkovic.rs](https://kranjanac.svilenkovic.rs/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/kuca-kranjanac) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -39,7 +39,7 @@ The tour is a film cut into chapters: entrance, living corner, stairs, rooms, ki
 | Mobile | 100 | 100 | 96 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `FAQPage`, `LodgingBusiness`, `VideoObject`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `FAQPage`, `LodgingBusiness`, `VideoObject`.
 
 ## Screenshots
 
